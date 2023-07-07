@@ -11,10 +11,7 @@
 
 ![Screenshot 2023-07-07 210911](https://github.com/bibek-bhusal03/Hulu-2.0-clone/assets/120349016/b66bb5fc-a08c-4d2b-ad1b-9431d9694f1d)
 
-     [Live demo](https://hulu-2-0-clone-ashen.vercel.app/)
-    2.  During this build I got to learn a lot about api's and how to design with mobile first approach in mind.
-    3. I also got to explore more about tailwindcss
-    4. In designing any website one should have mobile first approach.
+[Live demo](https://hulu-2-0-clone-ashen.vercel.app/) 2. During this build I got to learn a lot about api's and how to design with mobile first approach in mind. 3. I also got to explore more about tailwindcss 4. In designing any website one should have mobile first approach.
 
 ### Built With
 

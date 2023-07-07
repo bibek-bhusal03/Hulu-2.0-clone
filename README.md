@@ -16,8 +16,6 @@
     3. I also got to explore more about tailwindcss
     4. In designing any website one should have mobile first approach.
 
--->
-
 ### Built With
 
 1. [Nextjs](https://nextjs.org/)
